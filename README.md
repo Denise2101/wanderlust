@@ -1,2 +1,2 @@
 # wanderlust
-echo new
+echo 
